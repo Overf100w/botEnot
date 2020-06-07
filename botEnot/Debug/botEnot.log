@@ -1,0 +1,15 @@
+﻿  botEnot.cpp
+D:\Programming\cpp\botEnot\botEnot\botEnot.cpp(13): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\Programming\cpp\botEnot\botEnot\botEnot.cpp(18): warning C4566: символ, представленный универсальным именем символа "\uFFFD", невозможно представить в текущей кодовой странице (1251)
+D:\Programming\cpp\botEnot\botEnot\botEnot.cpp(22): warning C4566: символ, представленный универсальным именем символа "\uFFFD", невозможно представить в текущей кодовой странице (1251)
+D:\Programming\cpp\botEnot\botEnot\botEnot.cpp(55): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\Programming\cpp\botEnot\botEnot\botEnot.cpp(56): warning C4566: символ, представленный универсальным именем символа "\uFFFD", невозможно представить в текущей кодовой странице (1251)
+D:\Programming\cpp\botEnot\botEnot\botEnot.cpp(57): warning C4566: символ, представленный универсальным именем символа "\uFFFD", невозможно представить в текущей кодовой странице (1251)
+D:\Programming\cpp\botEnot\botEnot\botEnot.cpp(58): warning C4566: символ, представленный универсальным именем символа "\uFFFD", невозможно представить в текущей кодовой странице (1251)
+D:\Programming\cpp\botEnot\botEnot\botEnot.cpp(59): warning C4566: символ, представленный универсальным именем символа "\uFFFD", невозможно представить в текущей кодовой странице (1251)
+D:\Programming\cpp\botEnot\botEnot\botEnot.cpp(61): warning C4566: символ, представленный универсальным именем символа "\uFFFD", невозможно представить в текущей кодовой странице (1251)
+D:\Programming\cpp\botEnot\botEnot\botEnot.cpp(84): warning C4566: символ, представленный универсальным именем символа "\uFFFD", невозможно представить в текущей кодовой странице (1251)
+D:\Programming\cpp\botEnot\botEnot\botEnot.cpp(104): warning C4566: символ, представленный универсальным именем символа "\uFFFD", невозможно представить в текущей кодовой странице (1251)
+D:\Programming\cpp\botEnot\botEnot\botEnot.cpp(106): warning C4566: символ, представленный универсальным именем символа "\uFFFD", невозможно представить в текущей кодовой странице (1251)
+D:\Programming\cpp\botEnot\botEnot\botEnot.cpp(117): warning C4566: символ, представленный универсальным именем символа "\uFFFD", невозможно представить в текущей кодовой странице (1251)
+  botEnot.vcxproj -> D:\Programming\cpp\botEnot\Debug\botEnot.exe
